@@ -1,4 +1,4 @@
-package creational
+package creational.singleton
 
 import java.util.concurrent.atomic.AtomicInteger
 
